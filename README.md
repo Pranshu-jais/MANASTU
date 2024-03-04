@@ -10,7 +10,7 @@ This model can then be used by educational institutions to allocate resources, i
 In today's educational landscape, student retention and success are of utmost importance for educational institutions. Identifying students who are at risk of dropping out and implementing timely interventions can greatly contribute to improving graduation rates and ensuring academic success. What are certain factors that may affect students' retention or dropout in academic institutions?
 
 # Methodology Approach
-The methodology adopted during the course of this project includes:
+The methodology adopted during the course of this project includes:-
 
 Data collected through Kaggle datasets.
 Data processing and descriptive analysis
